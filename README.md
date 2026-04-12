@@ -70,6 +70,12 @@ wanted something fast and local to keep my projects organized without thinking t
 
 ---
 
+## support
+
+[![buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-☕-bd93f9?style=flat-square)](https://buymeacoffee.com/d0td3v)
+
+---
+
 ## contact
 
 if you want to ask about something ive built or just curious how it works  

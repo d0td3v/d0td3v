@@ -26,9 +26,10 @@
 
 ## claim to fame
 
-- placed **3rd** in the SANS Capture the Flag (2025)  @ [BSides Charm](https://www.bsidescharm.org/)
+- placed **3rd** in the SANS Capture the Flag (2025)  @ [BSides Charm | SANS](https://www.bsidescharm.org/)
 - placed **19th** in the Huntress Capture the Flag (2025)  @ [Huntress CTF](https://ctf.huntress.com/)
 - placed **13th** in the Huntress Capture the Flag (2026) @ [Huntress CTF](https://ctf.huntress.com/)
+- placed **1st** in the Chronos Security Capture The Flag (2026) @ [Chronos Security CTF](https://www.chronos-security.ro/) 
 ---
 
 ### dev-template
